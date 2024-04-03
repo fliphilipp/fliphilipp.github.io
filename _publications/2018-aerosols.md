@@ -3,7 +3,7 @@ title: "Lethargic response to aerosol emissions in current climate models"
 collection: publications
 permalink: /publication/2018-aerosols
 excerpt: 'Trends in downward solar radiation measured at ∼1,400 surface stations are presented for the last half century. Historical aerosol emissions support the idea that these observed radiation trends were mainly due to changes in atmospheric aerosol loading. CMIP5 simulations show negligible solar radiation trends over the same period, raising doubts about their ability to simulate future climate.'
-date: 2018
+date: 2018-08-29
 venue: 'Geophysical Research Letters'
 paperurl: 'https://doi.org/10.1029/2018GL078298'
 citation: 'Storelvmo, T., Heede, U. K., Leirvik, T., Phillips, P. C., Arndt, P., & Wild, M. (2018). Lethargic response to aerosol emissions in current climate models. Geophysical Research Letters, 45(18), 9814-9823.'

@@ -3,7 +3,7 @@ title: "Supraglacial Lakes across Greenland and Antarctica - New Insights from F
 collection: talks
 type: "Oral Lightning Talk and Poster Presentation"
 permalink: /talks/2023-icesat2-scienceteam
-venue: "University of California San Diego, Scripps Institution of Oceanography"
+venue: "NASA ICESat-2 Science Team Meeting"
 date: 2023-10-02
 location: "La Jolla, CA, USA"
 ---

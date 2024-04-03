@@ -1,7 +1,7 @@
 ---
 title: "Interactive Data Visualization with Open Altimetry & Contextualization of ICESat-2 Photon Data using Sentinel-2 Cloud Masking in Google Earth Engine."
 collection: talks
-type: "Talk"
+type: "Interactive Coding Tutorial"
 permalink: /talks/2023-hackweek
 venue: "University of Washington eScience ICESat-2 Cloud Computing Hackweek"
 date: 2023-08-09

@@ -8,4 +8,4 @@ date: 2023-06-20
 location: "La Jolla, CA, USA"
 ---
 
-
+![an image of the poster I presented](/images/talks/2023-fellowship.jpg)

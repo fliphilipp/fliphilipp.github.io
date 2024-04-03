@@ -7,7 +7,8 @@ venue: "University of Washington eScience ICESat-2 Cloud Computing Hackweek"
 date: 2023-08-09
 location: "Seattle, WA, USA"
 ---
-<img align="left" src="/images/talks/2023-hackweek.jpg" width="30%">
+
+![a photo of me presenting the tutorial](/images/talks/2023-hackweek.jpg){: width="30%" style="float:left; padding-right:10px" }
 
 **Learning Objectives**
 - Discover some interesting ICESat-2 data by browsing OpenAltimetry

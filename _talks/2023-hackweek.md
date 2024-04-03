@@ -10,7 +10,7 @@ location: "Seattle, WA, USA"
 
 As part of the 2023 UW eScience ICESat-2 Cloud Computing Hackweek Organizing Team, I developed and lead an interactive Jupyter-based tutorial on Contextualization of ICESat-2 Photon Data using Sentinel-2 Cloud Masking in Google Earth Engine, and helped developing tutorials on using ICESat-2 data for snow depth and shallow bathymetry retrievals. I also helped participants with any computing issues during the event, which was held from 7 to 11 August in Seattle.
 
-![a photo of me presenting the tutorial](/images/talks/2023-hackweek.jpg){: width="30%" style="float:left; padding-right:10px" }
+![a photo of me presenting the tutorial](/images/talks/2023-hackweek.jpg){: width="30%" style="float:left; padding-right:5%" }
 
 **Learning Objectives**
 - Discover some interesting ICESat-2 data by browsing OpenAltimetry

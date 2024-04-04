@@ -2,7 +2,7 @@
 title: "A Framework for Automated Supraglacial Lake Detection and Depth Retrieval in ICESat-2 Photon Data Across the Greenland and Antarctic Ice Sheets"
 collection: publications
 permalink: /publication/2024-FLUIDSuRRF
-excerpt: 'we present the Flat Lake and Underlying Ice Detection (FLUID) and Surface Removal and Robust Fit (SuRFF) algorithms which together provide a fully automated and scalable method for lake detection and depth determination from ICESat-2 ATL03 data, and establish a framework for its large-scale implementation using distributed high-throughput computing. We report FLUID/SuRFF algorithm performance over two regions known to have significant surface melt -- Central West Greenland and Amery Ice Shelf catchment in East Antarctica -- during two melt seasons. FLUID/SuRFF reveals a total of 1249 lakes up to 25 m deep, with more water during higher melt years.'
+excerpt: 'In this paper, we present the Flat Lake and Underlying Ice Detection (FLUID) and Surface Removal and Robust Fit (SuRFF) algorithms which together provide a fully automated and scalable method for lake detection and depth determination from ICESat-2 ATL03 data, and establish a framework for its large-scale implementation using distributed high-throughput computing. We report FLUID/SuRFF algorithm performance over two regions known to have significant surface melt -- Central West Greenland and Amery Ice Shelf catchment in East Antarctica -- during two melt seasons. FLUID/SuRFF reveals a total of 1249 lakes up to 25 m deep, with more water during higher melt years.'
 date: 2024-04-03
 venue: 'in prep'
 paperurl: 'https://zenodo.org/doi/10.5281/zenodo.10901826'

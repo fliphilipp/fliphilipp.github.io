@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+You can download the full CV as a PDF file [here](/files/Philipp_S_Arndt_full_CV_2024-03.pdf). 
+
 Education
-======
+=====
 * Ph.D in Earth Sciences, University of California San Diego, 2024 (expected)
 * M.S. in Engineering Physics, Chalmers University of Technology, 2018
 * B.A. in Mathematics & Economics, Yale University, 2016
 
 Work experience
-======
+=====
 * Sep 2018 - Present: Graduate Student Researcher / NASA Future Investigator
   * Scripps Institution of Oceanography, San Diego, CA, USA
   * Generated a data product of supraglacial melt lake depths from ICESat-2 satellite data across the Greenland and Antarctic ice sheets

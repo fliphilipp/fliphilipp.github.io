@@ -13,11 +13,15 @@ Supraglacial lakes on the ice sheets have been linked to ice shelf collapse in A
 
 ## Related Data and Code:
 - Data set: https://zenodo.org/doi/10.5281/zenodo.10901737
-- Source code: https://zenodo.org/doi/10.5281/zenodo.10905941 | https://github.com/fliphilipp/FLUIDSuRRF-code
-- Data and code for figure reproduction: https://zenodo.org/doi/10.5281/zenodo.10901826 | https://github.com/fliphilipp/FLUIDSuRRF-figures
+- Source code:
+  - https://zenodo.org/doi/10.5281/zenodo.10905941
+  - https://github.com/fliphilipp/FLUIDSuRRF-code
+- Data and code for figure reproduction:
+  - https://zenodo.org/doi/10.5281/zenodo.10901826
+  - https://github.com/fliphilipp/FLUIDSuRRF-figures
 
-![results for the Central West Greenland drainage basin](https://github.com/fliphilipp/FLUIDSuRRF-figures/blob/5d032b53ac41049b49028cdc3d3988237a77fd6f/figures/fig09-results_map_greenland_cw.jpg)
+![results for the Central West Greenland drainage basin](https://github.com/fliphilipp/images/blob/main/fig09-results_greenland_cw.jpg?raw=true)
 Center maps: FLUID/SURFF algorithm testing in Greenland. Locations of melt lakes detected in ATL03 data for the Greenland Ice Sheet's Central West drainage basin for melt seasons 2019 and 2020, mapped over the corresponding seasons' maximum meltwater extent from Landsat 8. a)-j): Examples showing the underlying ATL03 photon clouds and water depths calculated by SuRRF, for some of the lakes shown on the maps. Numbers in lower right of panels are SuRFF lake quality scores.
 
-![results for the Amery Ice Shelf catchment](https://github.com/fliphilipp/FLUIDSuRRF-figures/blob/5d032b53ac41049b49028cdc3d3988237a77fd6f/figures/fig10-results_map_amery.jpg)
+![results for the Amery Ice Shelf catchment](https://github.com/fliphilipp/images/blob/main/fig10-results_amery.jpg?raw=true)
 Center maps: FLUID/SuRFF algorithm testing in Antarctica. Locations of melt lakes that FLUID detected in ATL03 data for the Antarctic Ice Sheet's B-C drainage basin for melt seasons 2019-20 and 2020-21, mapped over the corresponding seasons' maximum meltwater extent from Landsat 8. Panels a-j: Examples showing the underlying ATL03 photon clouds and water depths calculated by SuRRF, for some of the lakes shown on the maps. Numbers in lower right of panels are SuRFF lake quality scores.

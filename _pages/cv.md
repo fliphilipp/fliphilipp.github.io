@@ -65,7 +65,7 @@ Teaching
 Community engagement and leadership
 ======
 * Board Member of the Allied Climbers of San Diego, 2024-present
-* Founding member and instruction/outreach with the UC San Diego Alpine Club, 2022-present (Single Pitch Rock Climbing Instructor, certified by the American Mountain Guides Association)
+* Founding member and instruction/outreach with the UC San Diego Alpine Club, 2022-present
 * Chalmers Environmental Unit Sustainability Ambassador, 2017-18
 * Student Representative, MSc Complex Adaptive Systems Program at Chalmers University of Technology and Gothenburg University, 2017-18
 * Artistic Gymnastics Coach (kids and adults) and Judge with Göteborgs Turnförening, 2016-18

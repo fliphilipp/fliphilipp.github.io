@@ -13,7 +13,7 @@ You can download the full CV as a PDF file [here](/files/Philipp_S_Arndt_full_CV
 
 Skills
 =====
-Geospatial Data Analysis | Satellite Remote Sensing | Machine Learning | High-Throughput Computing | Data Visualization | Oral and Written Communication | Problem-solving | Collaboration | Teaching | Community Engagement
+Geospatial Data Analysis $\vert$ Satellite Remote Sensing $\vert$ Machine Learning $\vert$ High-Throughput Computing $\vert$ Data Visualization $\vert$ Oral and Written Communication $\vert$ Problem-solving $\vert$ Collaboration $\vert$ Teaching $\vert$ Community Engagement
 
 Fluent in German, English, Python, R, Jupyter, Matlab, Git/GitHub, Google Earth Engine, HTCondor and \LaTeX. Conversational in French, Portuguese, C, bash, Javascript, SQL/PostGIS, QGIS, Singularity/Docker and Spark.
 
@@ -54,7 +54,7 @@ Work experience
  
 * Aug 2013 – May 2015: Social Media and Photography Intern
   * Yale Office of Public Affairs & Communications, New Haven, CT, USA
-  * Photography, outreach strategy \& official representation of Yale University on social media
+  * Photography, outreach strategy & official representation of Yale University on social media
  
 Teaching
 ======
@@ -77,7 +77,7 @@ Community engagement and leadership
 
 Awards & Fellowships
 =====
-* Future Investigators in NASA Earth and Space Science and Technology, research grant (USD 135,000 | 2020-24)
+* Future Investigators in NASA Earth and Space Science and Technology, research grant (USD 135,000 $\vert$ 2020-24)
 * Wyer Family Endowed Fellowship, for PhD stipend supplement (2020-23)
 * Katzin Fellowship, for PhD program tuition supplement (2020-23)
 * Scholar-Athlete Award, National Association of Intercollegiate Gymnastics (2019)
@@ -95,15 +95,15 @@ Certifications and Licenses
 Field Experience
 =====
 * Field Team and Project Lead
-  * Independent Research with the UC San Diego Alpine Club | April 2023, San Bernardino National Forest, CA, USA
+  * Independent Research with the UC San Diego Alpine Club $\vert$ April 2023, San Bernardino National Forest, CA, USA
   * Ski-Based ICESat-2 Ground-Validation Campaign for Snow Depth Measurements on San Gorgonio Mountain
  
 * Field Assistant
-  * University of Alaska Fairbanks & National Science Foundation | May 2022 - Jun 2022, McCarthy, AK, USA
+  * University of Alaska Fairbanks & National Science Foundation $\vert$ May 2022 - Jun 2022, McCarthy, AK, USA
   * Anticipating Rates of Deglaciation in Alaska: Controls on The Mass Loss and Morphology of The Debris Covered Terminus of Kennicott Glacier, Wrangell - St. Elias National Park (NSF Award ID 1917536)
  
 * Field Work (Science Grantee)
-  * United States Antarctic Program & National Science Foundation | Oct 2019 - Dec 2019, McMurdo Station / Siple Dome, Antarctica
+  * United States Antarctic Program & National Science Foundation $\vert$ Oct 2019 - Dec 2019, McMurdo Station / Siple Dome, Antarctica
   * Subglacial Antarctic Lakes Scientific Access (SALSA) project, Geophysics Team (event number C-533)
 
 Publications
@@ -120,54 +120,54 @@ Talks
 
 Coursework
 =====
-Algebraic Topology and Knot Theory | 
-Artificial Neural Networks | 
-Big Data and Statistical Learning | 
-Climate Dynamics and Climate Change | 
-Combinatorics and Graph Theory | 
-Computational Biology | 
-Computational Physics | 
-Conservation Biology | 
-Data Science for Engineers and Scientists | 
-Dynamic Meteorology | 
-Dynamical Systems | 
-Earth Surface Processes | 
-Econometrics | 
-Environmental Risk Assessment | 
-Ethical and Professional Science | 
-Fluid Mechanics | 
-General Equilibrium Theory | 
-Geophysical Fluid Dynamics | 
-Global Environmental Governance | 
-Global Tectonics | 
-Ice Sheet-Ocean Interactions | 
-Ice and the Climate System | 
-Independent Research in Earth Science | 
-Information Theory | 
-International Summer School in Glaciology | 
-Leadership for Sustainability Transitions | 
-Linear Algebra and Differential Calculus of Several Variables | 
-Linear Algebra and Matrix Theory | 
-Macroeconomics | 
-Marine Chemistry | 
-Master's Thesis in Mathematics | 
-Mathematical Game Theory | 
-Microeconomics | 
-Natural Disasters | 
-Observational Methods in Physical Oceanography | 
-Organic Chemistry (Structure and Reactivity) | 
-Paleoclimatology | 
-Physical Oceanographic Data Analysis | 
-Physical Oceanography | 
-Probability Theory and Statistics | 
-Real Analysis | 
-Satellite Remote Sensing | 
-Science Writing | 
-Seismology | 
-Simulation of Complex Systems | 
-Stochastic Optimization Algorithms | 
-Systems Biology | 
-Thermodynamics of the Atmosphere | 
-Vector Analysis and Differential Geometry | 
+Algebraic Topology and Knot Theory $\vert$ 
+Artificial Neural Networks $\vert$ 
+Big Data and Statistical Learning $\vert$ 
+Climate Dynamics and Climate Change $\vert$ 
+Combinatorics and Graph Theory $\vert$ 
+Computational Biology $\vert$ 
+Computational Physics $\vert$ 
+Conservation Biology $\vert$ 
+Data Science for Engineers and Scientists $\vert$ 
+Dynamic Meteorology $\vert$ 
+Dynamical Systems $\vert$ 
+Earth Surface Processes $\vert$ 
+Econometrics $\vert$ 
+Environmental Risk Assessment $\vert$ 
+Ethical and Professional Science $\vert$ 
+Fluid Mechanics $\vert$ 
+General Equilibrium Theory $\vert$ 
+Geophysical Fluid Dynamics $\vert$ 
+Global Environmental Governance $\vert$ 
+Global Tectonics $\vert$ 
+Ice Sheet-Ocean Interactions $\vert$ 
+Ice and the Climate System $\vert$ 
+Independent Research in Earth Science $\vert$ 
+Information Theory $\vert$ 
+International Summer School in Glaciology $\vert$ 
+Leadership for Sustainability Transitions $\vert$ 
+Linear Algebra and Differential Calculus of Several Variables $\vert$ 
+Linear Algebra and Matrix Theory $\vert$ 
+Macroeconomics $\vert$ 
+Marine Chemistry $\vert$ 
+Master's Thesis in Mathematics $\vert$ 
+Mathematical Game Theory $\vert$ 
+Microeconomics $\vert$ 
+Natural Disasters $\vert$ 
+Observational Methods in Physical Oceanography $\vert$ 
+Organic Chemistry (Structure and Reactivity) $\vert$ 
+Paleoclimatology $\vert$ 
+Physical Oceanographic Data Analysis $\vert$ 
+Physical Oceanography $\vert$ 
+Probability Theory and Statistics $\vert$ 
+Real Analysis $\vert$ 
+Satellite Remote Sensing $\vert$ 
+Science Writing $\vert$ 
+Seismology $\vert$ 
+Simulation of Complex Systems $\vert$ 
+Stochastic Optimization Algorithms $\vert$ 
+Systems Biology $\vert$ 
+Thermodynamics of the Atmosphere $\vert$ 
+Vector Analysis and Differential Geometry $\vert$ 
 World Finance
 

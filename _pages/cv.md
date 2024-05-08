@@ -13,7 +13,7 @@ You can download the full CV as a PDF file [here](/files/Philipp_S_Arndt_full_CV
 
 Skills
 =====
-Geospatial Data Analysis | Satellite Remote Sensing $\vert$ Machine Learning $\vert$ High-Throughput Computing $\vert$ Data Visualization $\vert$ Oral and Written Communication $\vert$ Problem-solving $\vert$ Collaboration $\vert$ Teaching $\vert$ Community Engagement
+Geospatial Data Analysis ∣ Satellite Remote Sensing $\vert$ Machine Learning $\vert$ High-Throughput Computing $\vert$ Data Visualization $\vert$ Oral and Written Communication $\vert$ Problem-solving $\vert$ Collaboration $\vert$ Teaching $\vert$ Community Engagement
 
 Fluent in German, English, Python, R, Jupyter, Matlab, Git/GitHub, Google Earth Engine, HTCondor and \LaTeX. Conversational in French, Portuguese, C, bash, Javascript, SQL/PostGIS, QGIS, Singularity/Docker and Spark.
 

@@ -103,7 +103,7 @@ Field Experience
   * Anticipating Rates of Deglaciation in Alaska: Controls on The Mass Loss and Morphology of The Debris Covered Terminus of Kennicott Glacier, Wrangell - St. Elias National Park (NSF Award ID 1917536)
  
 * Field Work (Science Grantee)
-  * United States Antarctic Program & National Science Foundation | Oct 2019 - Dec 2019, McMurdo Station / Siple Dome, Antarctica
+  * United States Antarctic Program & National Science Foundation ∣ Oct 2019 - Dec 2019, McMurdo Station / Siple Dome, Antarctica
   * Subglacial Antarctic Lakes Scientific Access (SALSA) project, Geophysics Team (event number C-533)
 
 Publications

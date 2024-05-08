@@ -13,7 +13,7 @@ You can download the full CV as a PDF file [here](/files/Philipp_S_Arndt_full_CV
 
 Skills
 =====
-Geospatial Data Analysis $\vert$ Satellite Remote Sensing $\vert$ Machine Learning $\vert$ High-Throughput Computing $\vert$ Data Visualization $\vert$ Oral and Written Communication $\vert$ Problem-solving $\vert$ Collaboration $\vert$ Teaching $\vert$ Community Engagement
+Geospatial Data Analysis | Satellite Remote Sensing $\vert$ Machine Learning $\vert$ High-Throughput Computing $\vert$ Data Visualization $\vert$ Oral and Written Communication $\vert$ Problem-solving $\vert$ Collaboration $\vert$ Teaching $\vert$ Community Engagement
 
 Fluent in German, English, Python, R, Jupyter, Matlab, Git/GitHub, Google Earth Engine, HTCondor and \LaTeX. Conversational in French, Portuguese, C, bash, Javascript, SQL/PostGIS, QGIS, Singularity/Docker and Spark.
 
@@ -103,7 +103,7 @@ Field Experience
   * Anticipating Rates of Deglaciation in Alaska: Controls on The Mass Loss and Morphology of The Debris Covered Terminus of Kennicott Glacier, Wrangell - St. Elias National Park (NSF Award ID 1917536)
  
 * Field Work (Science Grantee)
-  * United States Antarctic Program & National Science Foundation $\vert$ Oct 2019 - Dec 2019, McMurdo Station / Siple Dome, Antarctica
+  * United States Antarctic Program & National Science Foundation | Oct 2019 - Dec 2019, McMurdo Station / Siple Dome, Antarctica
   * Subglacial Antarctic Lakes Scientific Access (SALSA) project, Geophysics Team (event number C-533)
 
 Publications

@@ -120,54 +120,5 @@ Talks
 
 Coursework
 =====
-Algebraic Topology and Knot Theory  ∣  
-Artificial Neural Networks  ∣  
-Big Data and Statistical Learning  ∣  
-Climate Dynamics and Climate Change  ∣  
-Combinatorics and Graph Theory  ∣  
-Computational Biology  ∣  
-Computational Physics  ∣  
-Conservation Biology  ∣  
-Data Science for Engineers and Scientists  ∣  
-Dynamic Meteorology  ∣  
-Dynamical Systems  ∣  
-Earth Surface Processes  ∣  
-Econometrics  ∣  
-Environmental Risk Assessment  ∣  
-Ethical and Professional Science  ∣  
-Fluid Mechanics  ∣  
-General Equilibrium Theory  ∣  
-Geophysical Fluid Dynamics  ∣  
-Global Environmental Governance  ∣  
-Global Tectonics  ∣  
-Ice Sheet-Ocean Interactions  ∣  
-Ice and the Climate System  ∣  
-Independent Research in Earth Science  ∣  
-Information Theory  ∣  
-International Summer School in Glaciology  ∣  
-Leadership for Sustainability Transitions  ∣  
-Linear Algebra and Differential Calculus of Several Variables  ∣  
-Linear Algebra and Matrix Theory  ∣  
-Macroeconomics  ∣  
-Marine Chemistry  ∣  
-Master's Thesis in Mathematics  ∣  
-Mathematical Game Theory  ∣  
-Microeconomics  ∣  
-Natural Disasters  ∣  
-Observational Methods in Physical Oceanography  ∣  
-Organic Chemistry (Structure and Reactivity)  ∣  
-Paleoclimatology  ∣  
-Physical Oceanographic Data Analysis  ∣  
-Physical Oceanography  ∣  
-Probability Theory and Statistics  ∣  
-Real Analysis  ∣  
-Satellite Remote Sensing  ∣  
-Science Writing  ∣  
-Seismology  ∣  
-Simulation of Complex Systems  ∣  
-Stochastic Optimization Algorithms  ∣  
-Systems Biology  ∣  
-Thermodynamics of the Atmosphere  ∣  
-Vector Analysis and Differential Geometry  ∣  
-World Finance
+Algebraic Topology and Knot Theory  ∣  Artificial Neural Networks  ∣  Big Data and Statistical Learning  ∣  Climate Dynamics and Climate Change  ∣  Combinatorics and Graph Theory  ∣  Computational Biology  ∣  Computational Physics  ∣  Conservation Biology  ∣  Data Science for Engineers and Scientists  ∣  Dynamic Meteorology  ∣  Dynamical Systems  ∣  Earth Surface Processes  ∣  Econometrics  ∣  Environmental Risk Assessment  ∣  Ethical and Professional Science  ∣  Fluid Mechanics  ∣  General Equilibrium Theory  ∣  Geophysical Fluid Dynamics  ∣  Global Environmental Governance  ∣  Global Tectonics  ∣  Ice Sheet-Ocean Interactions  ∣  Ice and the Climate System  ∣  Independent Research in Earth Science  ∣  Information Theory  ∣  International Summer School in Glaciology  ∣  Leadership for Sustainability Transitions  ∣  Linear Algebra and Differential Calculus of Several Variables  ∣  Linear Algebra and Matrix Theory  ∣  Macroeconomics  ∣  Marine Chemistry  ∣  Master's Thesis in Mathematics  ∣  Mathematical Game Theory  ∣  Microeconomics  ∣  Natural Disasters  ∣  Observational Methods in Physical Oceanography  ∣  Organic Chemistry (Structure and Reactivity)  ∣  Paleoclimatology  ∣  Physical Oceanographic Data Analysis  ∣  Physical Oceanography  ∣  Probability Theory and Statistics  ∣  Real Analysis  ∣  Satellite Remote Sensing  ∣  Science Writing  ∣  Seismology  ∣  Simulation of Complex Systems  ∣  Stochastic Optimization Algorithms  ∣  Systems Biology  ∣  Thermodynamics of the Atmosphere  ∣  Vector Analysis and Differential Geometry  ∣  World Finance
 

@@ -14,14 +14,10 @@ og_image: FLUIDSuRRF-result-maps.jpg
 
 ## Links, data and code:
 - Link to the discussion: [https://doi.org/10.5194/egusphere-2024-1156](https://doi.org/10.5194/egusphere-2024-1156)
-- [Preprint PDF](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1156/egusphere-2024-1156.pdf)
+- [Preprint PDF](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1156/egusphere-2024-1156.pdf) on EGUsphere
 - [Data set](https://zenodo.org/doi/10.5281/zenodo.10901737) for all detected lakes, with depths and imagery plots
-- Source code:
-  - [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10905941)
-  - [GitHub](https://github.com/fliphilipp/FLUIDSuRRF-code)
-- Data and code for figure reproduction:
-  - [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10901826)
-  - [GitHub](https://github.com/fliphilipp/FLUIDSuRRF-figures)
+- Source code: [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10905941), [GitHub](https://github.com/fliphilipp/FLUIDSuRRF-code)
+- Data and code for figure reproduction: [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10901826), [GitHub](https://github.com/fliphilipp/FLUIDSuRRF-figures)
  
 ---
 

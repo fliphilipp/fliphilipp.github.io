@@ -20,3 +20,7 @@ We verify that the resulting community structure is indeed representative of bio
 We visualize the resulting network based on its multi-level hierarchical structure to allow for easy, intuitive exploration of the data.
 
 **Keywords:** systems biology, cancer, data integration, multi-view data, network fusion, community detection, multi-level hierarchy, overrepresentation analysis, complex networks
+
+![a picture of me defending my Master's thesis](/images/teachingML.jpg)
+
+![an example visualization of the hierarchical multi-level communities in the multi-omics network of GBM sequencing data](/images/exampleVizMultiomicsNetworkGBM.jpg)

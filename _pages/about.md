@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi, I am Philipp Arndt!"
 author_profile: true
 redirect_from: 
   - /about/

@@ -4,14 +4,15 @@ collection: publications
 permalink: /publication/2024-FLUIDSuRRF
 excerpt: 'In this paper, we present the Flat Lake and Underlying Ice Detection (FLUID) and Surface Removal and Robust Fit (SuRFF) algorithms which together provide a fully automated and scalable method for lake detection and depth determination from ICESat-2 ATL03 data, and establish a framework for its large-scale implementation using distributed high-throughput computing. We report FLUID/SuRFF algorithm performance over two regions known to have significant surface melt -- Central West Greenland and Amery Ice Shelf catchment in East Antarctica -- during two melt seasons. FLUID/SuRFF reveals a total of 1249 lakes up to 25 m deep, with more water during higher melt years.'
 date: 2024-04-03
-venue: 'submitted to The Cryosphere'
-paperurl: 'https://zenodo.org/doi/10.5281/zenodo.10901826'
-citation: 'Arndt, P., & Fricker, H. A. (2024). A Framework for Automated Supraglacial Lake Detection and Depth Retrieval in ICESat-2 Photon Data Across the Greenland and Antarctic Ice Sheets [Unpublished Manuscript]. Zenodo. https://doi.org/10.5281/zenodo.10901827'
+venue: 'Preprint under review for The Cryosphere Discussions'
+paperurl: 'https://doi.org/10.5194/egusphere-2024-1156'
+citation: 'Arndt, P. S. and Fricker, H. A.: A Framework for Automated Supraglacial Lake Detection and Depth Retrieval in ICESat-2 Photon Data Across the Greenland and Antarctic Ice Sheets, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-1156, 2024.'
 ---
 
 Supraglacial lakes on the ice sheets have been linked to ice shelf collapse in Antarctica and accelerated flow of grounded ice in Greenland. However, it is difficult to quantify the impact of supraglacial lakes on ice dynamics accurately enough to predict their contribution to future mass loss because large-scale assessments of meltwater volumes rely on models that are poorly constrained due to a lack of accurate depth measurements. Various recent case studies have demonstrated that accurate supraglacial lake depths can be obtained from ICESat-2’s ATL03 photon-level data product. However, ATL03 comprises hundreds of terabytes of unstructured point cloud data, which has made it challenging to use this bathymetric capability at scale. Here, we present the Flat Lake and Underlying Ice Detection (FLUID) and Surface Removal and Robust Fit (SuRFF) algorithms which together provide a fully automated and scalable method for lake detection and depth determination from ICESat-2 ATL03 data, and establish a framework for its large-scale implementation using distributed high-throughput computing. We report FLUID/SuRFF algorithm performance over two regions known to have significant surface melt -- Central West Greenland and Amery Ice Shelf catchment in East Antarctica -- during two melt seasons. FLUID/SuRFF reveals a total of 1249 lakes up to 25 m deep, with more water during higher melt years. In absence of ground truth data, manual annotation of test data suggests that our method reliably detects melt lakes whenever a bathymetric signal is discernible, and estimates water depths with a mean absolute error of 0.28 m. These results imply that our proposed framework has the potential to generate a comprehensive data product of accurate meltwater depths across both ice sheets.
 
 ## Related Data and Code:
+- Preprint PDF [https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1156/egusphere-2024-1156.pdf](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1156/egusphere-2024-1156.pdf)
 - Data set: [https://zenodo.org/doi/10.5281/zenodo.10901737](https://zenodo.org/doi/10.5281/zenodo.10901737)
 - Source code:
   - [https://zenodo.org/doi/10.5281/zenodo.10905941](https://zenodo.org/doi/10.5281/zenodo.10905941)

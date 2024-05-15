@@ -13,13 +13,42 @@ header:
   <!-- overlay_filter: rgba(255, 255, 255, 0.25) # for rgba background -->
   <!-- overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5)) # for gradient -->
 
+  <style>
+    .header-image-container {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 1.5;
+      background-image: url("https://fliphilipp.github.io/images/header_teaching.jpg");
+      background-size: 100% auto;
+      background-repeat: no-repeat;
+      background-position: top center;
+    }
+    .header-image-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to bottom, rgba(255,255,255,0.5), rgba(255,255,255,1.0));
+      background-position: center;
+    }
+  </style>
+
+<!-- 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero_new.html %}
 {% endif %}
 <p style="margin-top:-5cm;"> </p>
+-->
+
+<div class="header-image-container">
+  <div class="header-image-overlay">
 
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+  </div>
+</div>

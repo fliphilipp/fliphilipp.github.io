@@ -19,7 +19,6 @@ header:
   <!-- overlay_filter: rgba(255, 255, 255, 0.25) # for rgba background -->
   <!-- overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5)) # for gradient -->
 
-<!-- 
 <style>
   .header-image-container {
     position: relative;
@@ -40,7 +39,6 @@ header:
     background-position: center;
   }
 </style>
--->
 
 <!-- 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -49,9 +47,14 @@ header:
 <p style="margin-top:-5cm;"> </p>
 -->
 
+<div class="header-image-container">
+  <div class="header-image-overlay">
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+  </div>
+</div>

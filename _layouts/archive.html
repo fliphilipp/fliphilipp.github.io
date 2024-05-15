@@ -7,11 +7,6 @@ layout: default
   {% include page__hero.html %}
 {% endif %}
 -->
-<style>
-  .infront{
-    z-index: 9999999999999999;
-  }
-</style>
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
@@ -22,7 +17,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive infront">
+  <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}

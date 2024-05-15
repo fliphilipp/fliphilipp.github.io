@@ -14,3 +14,5 @@ My current work largely focuses on automatically detecting surface meltwater fea
 Prior to my PhD, I studied Engineering Physics with a focus on Data Science and Machine Learning at [Chalmers University of Technology](https://www.chalmers.se/en/education/find-masters-programme/complex-adaptive-systems-msc/) and Mathematics/Economics at [Yale University](https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics/). 
 
 In my spare time I enjoy connecting with people who share my love for the outdoors, often while hiking, backcountry skiing or rock climbing.
+
+![a picture of me enjoying the warmth of the sun on the rock climb "Mithril Dihedral", Mt. Russell, California](/images/mtrussell.jpg)

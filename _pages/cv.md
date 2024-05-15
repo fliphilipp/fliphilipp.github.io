@@ -15,7 +15,7 @@ Skills
 =====
 Geospatial Data Analysis ∣ Satellite Remote Sensing  ∣  Machine Learning  ∣  High-Throughput Computing  ∣  Data Visualization  ∣  Oral and Written Communication  ∣  Problem-solving  ∣  Collaboration  ∣  Teaching  ∣  Community Engagement
 
-Fluent in German, English, Python, R, Jupyter, Matlab, Git/GitHub, Google Earth Engine, HTCondor and \LaTeX. Conversational in French, Portuguese, C, bash, Javascript, SQL/PostGIS, QGIS, Singularity/Docker and Spark.
+Fluent in German, English, Python, R, Jupyter, Matlab, Git/GitHub, Google Earth Engine, HTCondor and $$\LaTeX$$. Conversational in French, Portuguese, C, bash, Javascript, SQL/PostGIS, QGIS, Singularity/Docker and Spark.
 
 Education
 =====

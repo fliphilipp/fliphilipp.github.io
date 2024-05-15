@@ -19,6 +19,10 @@ header:
 </p>
 -->
 
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}

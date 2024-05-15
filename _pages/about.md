@@ -15,4 +15,4 @@ Prior to my PhD, I studied Engineering Physics with a focus on Data Science and 
 
 In my spare time I enjoy connecting with people who share my love for the outdoors, often while hiking, backcountry skiing or rock climbing.
 
-![a picture of me enjoying the warmth of the sun on the rock climb "Mithril Dihedral", Mt. Russell, California](/images/mtrussell.jpg)
+![a picture of me enjoying the warmth of the sun on the rock climb "Mithril Dihedral", Mt. Russell, California](/images/mtrussell_small.jpg)

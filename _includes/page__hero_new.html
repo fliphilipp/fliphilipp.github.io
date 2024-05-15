@@ -33,8 +33,8 @@
       {% if page.tagline %}
         <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
-        <!-- <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p> -->
-        <p class="page__lead">{{ page.excerpt | markdownify}}</p>
+        <p style="margin-bottom:5cm;">>{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        <!-- <p class="page__lead">{{ page.excerpt | markdownify}}</p> -->
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.actions %}

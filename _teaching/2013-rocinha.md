@@ -8,4 +8,6 @@ date: 2013-06-15
 location: "Favela da Rocinha, Rio de Janeiro, Brazil"
 ---
 
-I spent three months living in Rocinha (the second largest favela in Brazil), and partnered with the Two Brothers Foundation to teach English to local kids, and helped with planning social activities. 
+I spent three months living in Rocinha (the second largest favela in Brazil), and partnered with the Two Brothers Foundation to teach English to local kids, and helped with planning social activities.
+
+![with some of the students coming back from a weekend outing](/images/rocinha_small.jpg)

@@ -113,7 +113,7 @@
       "@context": "http://schema.org",
       "@type": "Organization",
       "url": {{ seo_url | jsonify }},
-      "logo":  {% if site.og_image contains "://" %}{{ site.og_image | jsonify }}{% else %}{{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}{% endif %}">
+      "logo":  {% if site.og_image contains "://" %}{{ site.og_image | jsonify }}{% else %}{{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}{% endif %}
     }
   </script>
 {% endif %}

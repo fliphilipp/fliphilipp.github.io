@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Teaching"
+    url: /teaching/
+
   # - title: "Projects"
   #   url: /projects/
     
@@ -8,14 +11,20 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Field Work"
+  #   url: /portfolio/
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
+  # - title: "Rock Climbing"
+  #   url: /rock-climbing/
+
+  # - title: "Photography"
+  #   url: /photography/
+
   # - title: "Blog Posts"
   #   url: /year-archive/
     

@@ -4,8 +4,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projects/
     
   - title: "Publications"
     url: /publications/
@@ -13,17 +13,17 @@ main:
   - title: "Talks"
     url: /talks/
 
-  # - title: "Field Work"
-  #   url: /portfolio/
+  - title: "Field Work"
+    url: /fieldwork/
     
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  # - title: "Rock Climbing"
-  #   url: /rock-climbing/
+  - title: "Rock Climbing"
+    url: /rock-climbing/
 
-  # - title: "Photography"
-  #   url: /photography/
+  - title: "Photography"
+    url: /photography/
 
   # - title: "Blog Posts"
   #   url: /year-archive/

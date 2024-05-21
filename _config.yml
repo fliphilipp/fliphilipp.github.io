@@ -21,7 +21,7 @@ repository               : "fliphilipp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "philipp_arndt.jpg"
   name             : "Philipp S. Arndt"
   pronouns         : "he/him"  
   bio              : "I use satellite remote sensing and geospatial data analysis to produce actionable insights into how our planet is changing."
@@ -125,7 +125,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "https://fliphilipp.github.io/images/mtrussell_small.jpg"
+og_image                 :  "https://fliphilipp.github.io/images/philipp_arndt_mt_russell_small.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

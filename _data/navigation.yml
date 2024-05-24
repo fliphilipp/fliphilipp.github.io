@@ -13,8 +13,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  # - title: "Field Work"
-  #   url: /fieldwork/
+  - title: "Field Work"
+    url: /fieldwork/
     
   # - title: "Portfolio"
   #   url: /portfolio/

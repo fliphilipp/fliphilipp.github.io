@@ -10,6 +10,8 @@ author_profile: true
 
 ## Ski-based ground validation field campaign for ICESat-2 snowpack depth measurements in the Southern California mountains
 
+![philipp arndt ICESat-2 snow depth skiing field work banner](/images/fieldwork/philipp_arndt_ICESat-2_snow_depth.jpg)
+
 *Independent Research with the UC San Diego Alpine Club ∣ April 2023, San Bernardino National Forest, CA, USA*
 
 During the record-breaking California snow year of 2022-23 I planned and independent two-day ICESat-2 snow depth ground validation campaign in the backcountry of the San Bernardino mountains, leading a field team of graduate students that I recruited from the [UC San Diego Alpine Club](https://alpineclub.ucsd.edu/).

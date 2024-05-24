@@ -14,6 +14,8 @@ author_profile: true
 
 During the record-breaking California snow year of 2022-23 I planned and independent two-day ICESat-2 snow depth ground validation campaign in the backcountry of the San Bernardino mountains, leading a field team of graduate students that I recruited from the [UC San Diego Alpine Club](https://alpineclub.ucsd.edu/).
 
+This project has been taken over by Scripps Polar Center PhD Student Chance Roberts with funding from the Institute of Geophysics and Planetary Physics at Scripps Institution of Oceanography.
+
 ![philipp arndt ICESat-2 snow depth skiing field work banner](/images/fieldwork/philipp_arndt_ICESat-2_snow_depth.jpg)
 
 

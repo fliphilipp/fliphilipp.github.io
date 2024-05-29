@@ -25,6 +25,8 @@ This project has been taken over by Scripps Polar Center PhD Student Chance Robe
 
 During this field project in Summer 2022 I learned how to assemble weather stations in the field and measure ablation rates and meltwater fluxes on mountain glaciers. (Field lead: [Eric Petersen](https://ericivanpetersen.com/))
 
+![philipp arndt debris-covered glacier fieldwork kennicott banner](/images/fieldwork/kennicott-fieldwork-philipp-arndt.jpg)
+
 
 ## United States Antarctic Program: Subglacial Antarctic Lakes Scientific Access (SALSA) project, 2019-20 Geophysics Team
 

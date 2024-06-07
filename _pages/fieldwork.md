@@ -18,6 +18,7 @@ This project has been taken over by Scripps Polar Center PhD Student Chance Robe
 
 ![philipp arndt NASA ICESat-2 snow depth ground validation skiing San Gorgonio Mountain field work banner](/images/fieldwork/philipp_arndt_icesat2_snow_depth_san_gorgonio.jpg)
 
+---
 
 ## Anticipating Rates of Deglaciation in Alaska: Controls on The Mass Loss and Morphology of The Debris Covered Terminus of Kennicott Glacier, Wrangell - St. Elias National Park
 
@@ -27,6 +28,7 @@ During this field project in Summer 2022 I learned how to assemble weather stati
 
 ![philipp arndt debris-covered glacier fieldwork kennicott banner](/images/fieldwork/philipp_arndt_kennicott_glacier_field_work.jpg)
 
+---
 
 ## United States Antarctic Program: Subglacial Antarctic Lakes Scientific Access (SALSA) project, 2019-20 Geophysics Team
 

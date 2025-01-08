@@ -19,14 +19,18 @@ Fluent in German, English, Python, R, Jupyter, Matlab, Git/GitHub, Google Earth 
 
 Education
 =====
-* Ph.D in Earth Sciences, University of California San Diego, 2024 (expected)
+* Ph.D in Earth Sciences, University of California San Diego, 2024
 * M.S. in Climate Science, University of California San Diego, 2020
 * M.S. in Engineering Physics, Chalmers University of Technology, 2018
 * B.A. in Mathematics & Economics, Yale University, 2016
 
 Work experience
 =====
-* Sep 2018 - Present: Graduate Student Researcher / NASA Future Investigator
+
+* Jan 2025 - present: Data Scientist, Imagery and Data Fusion
+  * Global Fishing Watch, fully remote (currently based in San Diego, CA, USA)
+
+* Sep 2018 - Dec 2024: Graduate Student Researcher / NASA Future Investigator
   * Scripps Institution of Oceanography, San Diego, CA, USA
   * Generated a data product of supraglacial melt lake depths from ICESat-2 satellite data across the Greenland and Antarctic ice sheets
   * Generated an inventory of satellite observations of through-ice-shelf lake drainages across Antarctica

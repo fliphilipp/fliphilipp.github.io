@@ -6,7 +6,7 @@ excerpt: 'In this paper, we present the Flat Lake and Underlying Ice Detection (
 date: 2024-04-03
 venue: 'The Cryosphere'
 paperurl: 'https://doi.org/10.5194/tc-18-5173-2024'
-citation: 'Arndt, P. S. and Fricker, H. A.: A framework for automated supraglacial lake detection and depth retrieval in ICESat-2 photon data across the Greenland and Antarctic ice sheets, The Cryosphere, 18, 5173–5206, https://doi.org/10.5194/tc-18-5173-2024, 2024.'
+citation: 'Arndt, P. S. and Fricker, H. A.: A framework for automated supraglacial lake detection and depth retrieval in ICESat-2 photon data across the Greenland and Antarctic ice sheets, The Cryosphere, 18, 5173–5206, 2024.'
 og_image: FLUIDSuRRF-result-maps.jpg
 ---
 

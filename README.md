@@ -3,6 +3,8 @@
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
+This might not always be completely up to date, but I will be trying my best...
+
 ## About me
 
 I integrate large amounts of multi-mission satellite remote sensing products and other geospatial data to produce actionable insights into how our planet is changing, for managing the natural resources that we need and protecting the places that we love. 

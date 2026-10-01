@@ -20,6 +20,10 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
+    // once fixed, the percentage width above resolves against the viewport
+    // instead of #main, so cap it at the width of 2 of 12 columns of #main
+    // (2.25 / 14.75 = span(2 of 12) with 1/4 gutters; 2em = #main padding)
+    max-width: calc((#{$large} - 2em) * 2.25 / 14.75);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -30,6 +34,7 @@
   }
 
   @include breakpoint($x-large) {
+    max-width: calc((#{$x-large} - 2em) * 2.25 / 14.75);
     padding-right: 0;
   }
 
